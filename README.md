@@ -1,4 +1,4 @@
 # project-demo
 This is my first git repository.
 <br>
-Author-beauty chaudhary
+Author-beauty (apna college)
