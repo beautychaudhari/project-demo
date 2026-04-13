@@ -1,4 +1,4 @@
 # project-demo
 This is my first git repository.
 <br>
-Author-beauty (apna college)
+Author-beauty ( beauty college)
